@@ -2,19 +2,22 @@
 	color: #666;
 	opacity: 1;
 }
+
 *:-moz-placeholder {
 	color: #666;
 	opacity: 1;
+	
 }
 *::-moz-placeholder {
 	color: #666;
 	opacity: 1;
+	
 }
 *:-ms-input-placeholder {
 	color: #666;
 	opacity: 1;
+	
 }
-
 body input:focus:required:invalid,
 body textarea:focus:required:invalid {
 	
@@ -22,4 +25,4 @@ body textarea:focus:required:invalid {
 body input:required:valid,
 body textarea:required:valid {
 	
-}
+	}
